@@ -1,6 +1,8 @@
 # Ai-Thinker-Radar SDK
 This SDK is applicable to the Ai-Thinker Rd-01 module.
 
+Build Instructions
+
 ## Clone The Repo
 ```
 git clone --recurse-submodules https://github.com/Ai-Thinker-Open/Ai-Thinker-Radar.git
